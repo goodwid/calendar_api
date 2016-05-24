@@ -10,9 +10,7 @@
   },
   "author": "David Goodwin <goodwid@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "test": "gulp test",
-    "dev": "gulp",
-    "lint": "gulp lint"
+  "dependencies": {
+    "express": "^4.13.4"
   }
 }
